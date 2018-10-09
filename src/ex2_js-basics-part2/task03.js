@@ -1,19 +1,19 @@
-var a = [1,2,3,4,5,6,7,8,9];
+var i = [1,2,3,4];
 
 function arraySum(arr, elm) {
 
     arr = arr.slice(0);   
 
-    for(var sum = 0, a; a = arr.pop();) sum += !elm || elm=="even" && !(a & 1) || elm== "odd" && a & 1 ? a : 0;
+    for(var sum = 0, i; i = arr.pop();) 
+    sum += !elm || elm=="even" && !(i & 1) || elm== "odd" && i & 1 ? i : 0;
 
     return sum
 
 }
-08
  
 
-alert(arraySum(a)); //сумма всех
+console.log(arraySum(i));
 
-alert(arraySum(a, 'even')); //сумма четных
+console.log(arraySum(i, 'even'));
 
-alert(arraySum(a, 'odd')); //сумма нечетных
+console.log(arraySum(i, 'odd'));
