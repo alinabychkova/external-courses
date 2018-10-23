@@ -3,4 +3,4 @@ function TitleStr(str) {
     return str[0].toUpperCase() + str.slice(1);
   }
 
- console.log(TitleStr('строка'))
+ console.log(TitleStr('с трока'))
