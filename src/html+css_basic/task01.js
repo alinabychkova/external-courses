@@ -46,7 +46,7 @@
      </tr>
     </table>
 
-    <img src = "https://yandex.ru/images/search?pos=0&img_url=https%3A%2F%2Fcs9.pikabu.ru%2Fpost_img%2F2018%2F03%2F14%2F4%2Fog_og_1521000234285197728.jpg&text=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8&rpt=simage" alt="какая-то картинка">
+    <img src = "https://static.tildacdn.com/tild3739-3339-4864-b734-386336353235/20143010160217.jpg"  width="150" height="100" alt="какая-то картинка">
 
     <a href = "http://pesni.tnt-online.ru/video.html">Ссылка на сайт</a>
     
